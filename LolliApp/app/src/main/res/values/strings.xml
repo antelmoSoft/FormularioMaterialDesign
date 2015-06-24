@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LolliApp</string>
+
+    <string name="hello_world">.::. Hola .::.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity2">Detalles</string>
+</resources>
